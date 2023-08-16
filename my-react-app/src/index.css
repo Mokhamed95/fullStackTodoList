@@ -1,0 +1,9 @@
+.t{
+  list-style: none;
+}
+
+.f{
+   text-decoration: line-through;
+  /* flex: 1;
+    margin-left: 10px; */ 
+}
